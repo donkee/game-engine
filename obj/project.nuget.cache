@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "cPI2pvYWsEQWZyeU3TiSTTG22gCQ4Boh1xL66cX0Ba763akjFXwrFf6jQJ+0K7dAJoEq5VwqSqfs7yQSomby4g==",
+  "success": true,
+  "projectFilePath": "/home/chase/projects/engine/engine.csproj",
+  "expectedPackageFiles": [
+    "/home/chase/.nuget/packages/opentk/4.0.0-pre9.1/opentk.4.0.0-pre9.1.nupkg.sha512",
+    "/home/chase/.nuget/packages/opentoolkit.core/4.0.0-pre9.1/opentoolkit.core.4.0.0-pre9.1.nupkg.sha512",
+    "/home/chase/.nuget/packages/opentoolkit.graphics/4.0.0-pre9.1/opentoolkit.graphics.4.0.0-pre9.1.nupkg.sha512",
+    "/home/chase/.nuget/packages/opentoolkit.input/4.0.0-pre9.1/opentoolkit.input.4.0.0-pre9.1.nupkg.sha512",
+    "/home/chase/.nuget/packages/opentoolkit.mathematics/4.0.0-pre9.1/opentoolkit.mathematics.4.0.0-pre9.1.nupkg.sha512",
+    "/home/chase/.nuget/packages/opentoolkit.openal/4.0.0-pre9.1/opentoolkit.openal.4.0.0-pre9.1.nupkg.sha512",
+    "/home/chase/.nuget/packages/opentoolkit.redist.glfw/3.3.0-pre20190419183326/opentoolkit.redist.glfw.3.3.0-pre20190419183326.nupkg.sha512",
+    "/home/chase/.nuget/packages/opentoolkit.windowing.common/4.0.0-pre9.1/opentoolkit.windowing.common.4.0.0-pre9.1.nupkg.sha512",
+    "/home/chase/.nuget/packages/opentoolkit.windowing.desktop/4.0.0-pre9.1/opentoolkit.windowing.desktop.4.0.0-pre9.1.nupkg.sha512",
+    "/home/chase/.nuget/packages/opentoolkit.windowing.graphicslibraryframework/4.0.0-pre9.1/opentoolkit.windowing.graphicslibraryframework.4.0.0-pre9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
